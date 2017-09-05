@@ -1,0 +1,7 @@
+N=1024
+noise=0.0
+esig=5.0
+epeak=0.0
+flin=0.3
+zeta=30.0
+alpha=40.0
