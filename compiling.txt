@@ -1,2 +1,2 @@
-gcc cosd.c fclose.c fileManager.c fopen.c fprintf.c power.c pulse_gen_emxutil.c pulse_gen_initialize.c pulse_gen_rtwutil.c pulse_gen_terminate.c pulse_gen.c rt_nonfinite.c rtGetInf.c rtGetNaN.c sind.c sqrt.c main.c -o pulse_gen
+gcc cosd.c fclose.c fileManager.c fopen.c fprintf.c power.c pulse_gen_emxutil.c pulse_gen_initialize.c pulse_gen_rtwutil.c pulse_gen_terminate.c pulse_gen.c rt_nonfinite.c rtGetInf.c rtGetNaN.c sind.c sqrt.c main.c -lm -o pulse_gen
 
